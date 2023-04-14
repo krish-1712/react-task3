@@ -1,0 +1,591 @@
+.Animation{
+    font-size: 1.75rem;
+    color: #5a5c69!important;
+    margin-left: 20px;
+}
+.past{
+        margin-left: 20px;
+        color: #858796;
+        font-size: 20px;
+    
+}
+.contain{
+    margin-left: 30px;
+    margin-top: 30px;
+   
+    height: 200px;
+   
+}
+
+ .grid-container1 {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    
+} 
+.grid-items-in{
+    margin-top: 20px;
+
+    width: 620px;
+    height: 390px;
+    border-radius: 5px;
+    background-color: rgb(245,245,245);
+}
+.grid-items-is  {
+    margin-top: 20px;
+    margin-left: 20px;
+    width: 600px;
+    height: 390px;
+   border-radius: 5px;
+     background-color: rgb(245,245,245); 
+   
+}
+
+.grow{
+    color: #4e73df;
+    margin-left: 20px;
+    
+}
+.coded{
+    font-size:15px;
+    color: #e83e8c;
+  
+}
+#navbar{
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    margin-left: 10px; 
+    background-color: #f8f9fc!important;
+}
+.nav{
+    color: black;
+    background-color: #f8f9fc;
+    
+    margin-left: 25px;
+   
+    font-size: 20px;
+}
+#drop{
+    
+    font-size: 20px;
+    margin-left: 460px;
+      color: #858796;
+
+
+}
+#navbar1{
+    width: 20px;
+    height: 20px;
+    font-size: 20px;
+    margin-left: 10px; 
+    background-color: #f8f9fc!important;
+   
+   
+}
+.nav1{
+    color: black;
+    background-color: #f8f9fc;
+    
+    margin-left: 25px;
+   
+    font-size: 20px;
+   
+   
+   
+}
+#drop1{
+    
+    font-size: 20px;
+    margin-left: 260px;
+      color: #858796;
+
+}
+#drop:hover{
+    color: black;
+}
+#navbar:hover{
+    color: black;
+}
+.transform{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #858796;
+    font-size: 20px;
+}
+.eg{
+    font-weight: 400;
+    font-size: 15px;
+    margin-left: 20px;
+    color: #858796;
+
+}
+.eg1{
+    font-weight: 400;
+    font-size: 15px;
+    margin-left: 20px;
+    color: #858796;
+   
+
+}
+.eg2{
+    margin-top: 20px;
+    font-weight: 400;
+    font-size: 15px;
+    margin-left: 20px;
+    color: #858796;
+   
+
+}
+.fades  {
+        color: #4e73df;
+        margin-left: 20px;
+        font-size: 20px;
+    
+}
+#night{
+        width: 20px;
+        margin-left: 100px;
+        font-size: 20px;
+
+        color: #f8f9fc;
+        background-color: #4e73df;
+}
+#fade1{
+  
+    height: 40px;
+   margin-left: 10px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color: #4e73df;
+    color:#f8f9fc;
+}
+.Action{
+    background-color: #f8f9fc;
+  
+    color: black;
+}
+.Action1{
+    background-color: #f8f9fc;
+    color: black;
+}
+.here{
+    background-color: #f8f9fc;
+    color: black;
+}
+.transform1{
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #858796;
+    font-size: 20px;
+}
+.roke{
+    background-color: #f8f9fc;
+}
+.rokes{
+    background-color: #f8f9fc;
+    margin-left: 30px;
+   
+}
+#tool1{
+    margin-left: 500px;
+    margin-top: 300px;
+    background-color: #4e73df;
+    border-radius: 5px;
+    color: white;
+ }
+ @media  (max-width: 1200px) {
+    .Animation{
+        font-size: 1.75rem;
+        color: #5a5c69!important;
+        margin-left: 20px;
+    }
+    .past{
+            margin-left: 20px;
+            color: #858796;
+            font-size: 20px;
+        
+    }
+    .contain{
+        margin-left: 30px;
+        margin-top: 30px;
+       
+        height: 200px;
+       
+    }
+    
+     .grid-container1 {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        
+    } 
+    .grid-items-in{
+        margin-top: 20px;
+    
+        width: 620px;
+        height: 390px;
+        border-radius: 5px;
+        background-color: rgb(245,245,245);
+    }
+    .grid-items-is  {
+        margin-top: 20px;
+        margin-left: 20px;
+        width: 600px;
+        height: 390px;
+       border-radius: 5px;
+         background-color: rgb(245,245,245); 
+       
+    }
+    
+    .grow{
+        color: #4e73df;
+        margin-left: 20px;
+        
+    }
+    .coded{
+        font-size:15px;
+        color: #e83e8c;
+      
+    }
+    #navbar{
+        width: 20px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 10px; 
+        background-color: #f8f9fc!important;
+    }
+    .nav{
+        color: black;
+        background-color: #f8f9fc;
+        
+        margin-left: 25px;
+       
+        font-size: 20px;
+    }
+    #drop{
+        
+        font-size: 20px;
+        margin-left: 460px;
+          color: #858796;
+    
+    
+    }
+    #navbar1{
+        width: 20px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 10px; 
+        background-color: #f8f9fc!important;
+       
+       
+    }
+    .nav1{
+        color: black;
+        background-color: #f8f9fc;
+        
+        margin-left: 25px;
+       
+        font-size: 20px;
+       
+       
+       
+    }
+    #drop1{
+        
+        font-size: 20px;
+        margin-left: 260px;
+          color: #858796;
+    
+    }
+    #drop:hover{
+        color: black;
+    }
+    #navbar:hover{
+        color: black;
+    }
+    .transform{
+        margin-top: 20px;
+        margin-left: 20px;
+        color: #858796;
+        font-size: 20px;
+    }
+    .eg{
+        font-weight: 400;
+        font-size: 15px;
+        margin-left: 20px;
+        color: #858796;
+    
+    }
+    .eg1{
+        font-weight: 400;
+        font-size: 15px;
+        margin-left: 20px;
+        color: #858796;
+       
+    
+    }
+    .eg2{
+        margin-top: 20px;
+        font-weight: 400;
+        font-size: 15px;
+        margin-left: 20px;
+        color: #858796;
+       
+    
+    }
+    .fades  {
+            color: #4e73df;
+            margin-left: 20px;
+            font-size: 20px;
+        
+    }
+    #night{
+            width: 20px;
+            margin-left: 100px;
+            font-size: 20px;
+    
+            color: #f8f9fc;
+            background-color: #4e73df;
+    }
+    #fade1{
+      
+        height: 40px;
+       margin-left: 10px;
+        font-size: 20px;
+        border-radius: 5px;
+        background-color: #4e73df;
+        color:#f8f9fc;
+    }
+    .Action{
+        background-color: #f8f9fc;
+      
+        color: black;
+    }
+    .Action1{
+        background-color: #f8f9fc;
+        color: black;
+    }
+    .here{
+        background-color: #f8f9fc;
+        color: black;
+    }
+    .transform1{
+        margin-top: 20px;
+        margin-left: 20px;
+        color: #858796;
+        font-size: 20px;
+    }
+    .roke{
+        background-color: #f8f9fc;
+    }
+    .rokes{
+        background-color: #f8f9fc;
+        margin-left: 30px;
+       
+    }
+    #tool1{
+        margin-left: 500px;
+        margin-top: 300px;
+        background-color: #4e73df;
+        border-radius: 5px;
+        color: white;
+     }
+  
+ }
+ @media  (min-width: 800px) {
+    .Animation{
+        font-size: 1.75rem;
+        color: #5a5c69!important;
+        margin-left: 20px;
+    }
+    .past{
+            margin-left: 20px;
+            color: #858796;
+            font-size: 20px;
+        
+    }
+    .contain{
+        margin-left: 30px;
+        margin-top: 30px;
+       
+        height: 200px;
+       
+    }
+    
+     .grid-container1 {
+        display: grid;
+        grid-template-columns: auto auto auto;
+        
+    } 
+    .grid-items-in{
+        margin-top: 20px;
+    
+        width: 620px;
+        height: 390px;
+        border-radius: 5px;
+        background-color: rgb(245,245,245);
+    }
+    .grid-items-is  {
+        margin-top: 20px;
+        margin-left: 20px;
+        width: 600px;
+        height: 390px;
+       border-radius: 5px;
+         background-color: rgb(245,245,245); 
+       
+    }
+    
+    .grow{
+        color: #4e73df;
+        margin-left: 20px;
+        
+    }
+    .coded{
+        font-size:15px;
+        color: #e83e8c;
+      
+    }
+    #navbar{
+        width: 20px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 10px; 
+        background-color: #f8f9fc!important;
+    }
+    .nav{
+        color: black;
+        background-color: #f8f9fc;
+        
+        margin-left: 25px;
+       
+        font-size: 20px;
+    }
+    #drop{
+        
+        font-size: 20px;
+        margin-left: 460px;
+          color: #858796;
+    
+    
+    }
+    #navbar1{
+        width: 20px;
+        height: 20px;
+        font-size: 20px;
+        margin-left: 10px; 
+        background-color: #f8f9fc!important;
+       
+       
+    }
+    .nav1{
+        color: black;
+        background-color: #f8f9fc;
+        
+        margin-left: 25px;
+       
+        font-size: 20px;
+       
+       
+       
+    }
+    #drop1{
+        
+        font-size: 20px;
+        margin-left: 260px;
+          color: #858796;
+    
+    }
+    #drop:hover{
+        color: black;
+    }
+    #navbar:hover{
+        color: black;
+    }
+    .transform{
+        margin-top: 20px;
+        margin-left: 20px;
+        color: #858796;
+        font-size: 20px;
+    }
+    .eg{
+        font-weight: 400;
+        font-size: 15px;
+        margin-left: 20px;
+        color: #858796;
+    
+    }
+    .eg1{
+        font-weight: 400;
+        font-size: 15px;
+        margin-left: 20px;
+        color: #858796;
+       
+    
+    }
+    .eg2{
+        margin-top: 20px;
+        font-weight: 400;
+        font-size: 15px;
+        margin-left: 20px;
+        color: #858796;
+       
+    
+    }
+    .fades  {
+            color: #4e73df;
+            margin-left: 20px;
+            font-size: 20px;
+        
+    }
+    #night{
+            width: 20px;
+            margin-left: 100px;
+            font-size: 20px;
+    
+            color: #f8f9fc;
+            background-color: #4e73df;
+    }
+    #fade1{
+      
+        height: 40px;
+       margin-left: 10px;
+        font-size: 20px;
+        border-radius: 5px;
+        background-color: #4e73df;
+        color:#f8f9fc;
+    }
+    .Action{
+        background-color: #f8f9fc;
+      
+        color: black;
+    }
+    .Action1{
+        background-color: #f8f9fc;
+        color: black;
+    }
+    .here{
+        background-color: #f8f9fc;
+        color: black;
+    }
+    .transform1{
+        margin-top: 20px;
+        margin-left: 20px;
+        color: #858796;
+        font-size: 20px;
+    }
+    .roke{
+        background-color: #f8f9fc;
+    }
+    .rokes{
+        background-color: #f8f9fc;
+        margin-left: 30px;
+       
+    }
+    #tool1{
+        margin-left: 500px;
+        margin-top: 300px;
+        background-color: #4e73df;
+        border-radius: 5px;
+        color: white;
+     }
+
+ }

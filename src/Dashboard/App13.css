@@ -1,0 +1,881 @@
+.side-bar{
+    width: 200px;
+
+}
+.dashboard {
+    display: flex;
+    flex-direction: coloumn;
+  
+
+}
+#dash{
+    width: 100px;
+    background-color: lightskyblue;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    margin-left: 20px;
+}
+#dash:hover{
+    background-color:white;
+}
+#bt{
+    width: 100px;
+
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-top: 10px;
+    display: none;
+}
+#car{
+    width: 100px;
+   
+    border-radius: 5px;
+    margin-left: 40px;
+    display: none;
+}
+#co{
+    width: 100px;
+ 
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-top: 10px;
+    display: none;
+
+}
+#bo{
+    width: 100px;
+    
+    border-radius: 5px;
+    margin-left: 40px;
+    display: none;
+
+ 
+}
+#ani{
+    width: 100px;
+ 
+    border-radius: 5px;
+    margin-left: 40px;
+    display: none;
+ 
+}
+#other{
+    width: 100px;
+
+    border-radius: 5px;
+    margin-left: 40px;
+    display: none;
+
+}
+#log{
+    width: 100px;
+   
+    border-radius: 5px;
+    margin-left: 40px;
+    margin-top: 10px;
+    display: none;
+ 
+}
+#reg{
+    width: 100px;
+ 
+    border-radius: 5px;
+    margin-left: 40px;
+    display: none;
+
+}
+#four{
+    width: 100px;
+   
+    border-radius: 5px;
+    margin-left: 40px;
+    display: none;
+   
+}
+#for{
+    width: 100px;
+
+    border-radius: 5px;
+    margin-left: 40px;
+    display: none;
+   
+}
+#blank{
+    width: 100px;
+   
+    border-radius: 5px;
+    margin-left: 40px;
+    display: none;
+    
+}
+#tab{
+    width: 100px;
+
+    border-radius: 5px;
+    margin-left: 10px;
+    
+}
+button:hover{
+    background-color: white;
+}
+
+.side-bar {
+    border: 1px soli white;
+    height: 400vh;
+    width: 16%;
+    background-color: #4e73df;
+    
+   
+}
+
+.fa-laugh-wink{
+  font-size: 20px;
+  color: white;
+}
+.fa-tachometer-alt{
+    font-size: 20px;
+  color: white;
+}
+.components{
+  background-color: lightskyblue;
+  border: none;
+  border-radius: 5px;
+  width: 100px;
+  color: black;
+}
+.components:hover{
+    background-color: white;
+}
+.fa-cog{
+    color: lightgray;
+}
+.fa-cog:hover{
+    color: white;
+}
+.interface{
+    color: rgba(255,255,255,.4);
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.com{
+    color: lightgray;
+   
+ 
+}
+.com:hover{
+    color: white;
+}
+
+.utilities{
+    background-color: lightskyblue;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    margin-left: 20px;
+    width: 100px;
+  }
+  .utilities:hover{
+    background-color: white;
+  }
+
+
+.sb1 {
+    margin-left: 30px;
+    margin-top: 10px;
+    color: white;
+   
+}
+.fa-wrench{
+    color: lightgray;
+}
+.fa-wrench:hover{
+    color: white;
+}
+.utili{
+    color: lightgray;
+    margin-left: 20px;
+}
+.utili:hover{
+    color: white;
+}
+.addons{
+    color: rgba(255,255,255,.4);
+    font-size: 10px;
+    margin-left: 20px;
+    margin-top: 10px;
+
+}
+.log{
+    background-color: lightskyblue;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    width: 100px;
+    margin-left: 20px;
+}
+.log:hover{
+    background-color: white;
+}
+.fa-folder{
+    color: lightgray;
+}
+.fa-folder:hover{
+    color: white;
+}
+.table{
+    color: lightgray;
+   
+}
+.table:hover{
+    color: white;
+}
+
+.fa-table{
+    color: lightgray;
+ 
+}
+.fa-table:hover{
+    color: white;
+}
+.too{
+    background-color: lightskyblue;
+    border: none;
+    border-radius: 5px;
+    color: black;
+    margin-left: 20px;
+    width: 100px    ;
+}
+.too:hover{
+    background-color: white;
+}
+.pack {
+    color: #f8f9fc;
+    margin-left: 20px;
+}
+.prod{
+    
+    font-size: 12px;
+    border-radius: 5px;
+    background-color: #1cc88a;
+    color: white;
+    margin-left: 30px;
+    padding: 5px;
+  }
+  .prod:hover{
+    text-decoration: underline;
+  }
+  #you{
+    margin-left: 500px;
+  margin-top: 50px;
+    background-color: #4e73df;
+    border-radius: 5px;
+    color: white;
+    font-size: 20px;
+    
+ }
+ .containers{
+    background-color: rgba(0,0,0,.1);
+    margin-left: 20px;
+    margin-right: 20px;
+    height: 240px;
+ }
+ .mute{
+    padding-bottom: 10px;
+ }
+
+@media  (max-width: 799px) {
+    .side-bar{
+        width: 200px;
+    
+    }
+    .dashboard {
+        display: flex;
+        flex-direction: coloumn;
+      
+    
+    }
+    #dash{
+        width: 100px;
+        background-color: lightskyblue;
+        border: none;
+        border-radius: 5px;
+        color: black;
+        margin-left: 20px;
+    }
+    #dash:hover{
+        background-color:white;
+    }
+    #bt{
+        width: 100px;
+    
+        border-radius: 5px;
+        margin-left: 40px;
+        margin-top: 10px;
+        display: none;
+    }
+    #car{
+        width: 100px;
+       
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+    }
+    #co{
+        width: 100px;
+     
+        border-radius: 5px;
+        margin-left: 40px;
+        margin-top: 10px;
+        display: none;
+    
+    }
+    #bo{
+        width: 100px;
+        
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+    
+     
+    }
+    #ani{
+        width: 100px;
+     
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+     
+    }
+    #other{
+        width: 100px;
+    
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+    
+    }
+    #log{
+        width: 100px;
+       
+        border-radius: 5px;
+        margin-left: 40px;
+        margin-top: 10px;
+        display: none;
+     
+    }
+    #reg{
+        width: 100px;
+     
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+    
+    }
+    #four{
+        width: 100px;
+       
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+       
+    }
+    #for{
+        width: 100px;
+    
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+       
+    }
+    #blank{
+        width: 100px;
+       
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+        
+    }
+    #tab{
+        width: 100px;
+    
+        border-radius: 5px;
+        margin-left: 10px;
+        
+    }
+    button:hover{
+        background-color: white;
+    }
+    
+    .side-bar {
+        border: 1px soli white;
+        height: 400vh;
+        width: 16%;
+        background-color: #4e73df;
+        
+       
+    }
+    
+    .fa-laugh-wink{
+      font-size: 20px;
+      color: white;
+    }
+    .fa-tachometer-alt{
+        font-size: 20px;
+      color: white;
+    }
+    .components{
+      background-color: lightskyblue;
+      border: none;
+      border-radius: 5px;
+      width: 100px;
+      color: black;
+    }
+    .components:hover{
+        background-color: white;
+    }
+    .fa-cog{
+        color: lightgray;
+    }
+    .fa-cog:hover{
+        color: white;
+    }
+    .interface{
+        color: rgba(255,255,255,.4);
+        font-size: 10px;
+        margin-left: 20px;
+        margin-top: 10px;
+    
+    }
+    .com{
+        color: lightgray;
+       
+     
+    }
+    .com:hover{
+        color: white;
+    }
+    
+    .utilities{
+        background-color: lightskyblue;
+        border: none;
+        border-radius: 5px;
+        color: black;
+        margin-left: 20px;
+        width: 100px;
+      }
+      .utilities:hover{
+        background-color: white;
+      }
+    
+    
+    .sb1 {
+        margin-left: 30px;
+        margin-top: 10px;
+        color: white;
+       
+    }
+    .fa-wrench{
+        color: lightgray;
+    }
+    .fa-wrench:hover{
+        color: white;
+    }
+    .utili{
+        color: lightgray;
+        margin-left: 20px;
+    }
+    .utili:hover{
+        color: white;
+    }
+    .addons{
+        color: rgba(255,255,255,.4);
+        font-size: 10px;
+        margin-left: 20px;
+        margin-top: 10px;
+    
+    }
+    .log{
+        background-color: lightskyblue;
+        border: none;
+        border-radius: 5px;
+        color: black;
+        width: 100px;
+        margin-left: 20px;
+    }
+    .log:hover{
+        background-color: white;
+    }
+    .fa-folder{
+        color: lightgray;
+    }
+    .fa-folder:hover{
+        color: white;
+    }
+    .table{
+        color: lightgray;
+       
+    }
+    .table:hover{
+        color: white;
+    }
+    
+    .fa-table{
+        color: lightgray;
+     
+    }
+    .fa-table:hover{
+        color: white;
+    }
+    .too{
+        background-color: lightskyblue;
+        border: none;
+        border-radius: 5px;
+        color: black;
+        margin-left: 20px;
+        width: 100px    ;
+    }
+    .too:hover{
+        background-color: white;
+    }
+    .pack {
+        color: #f8f9fc;
+        margin-left: 20px;
+    }
+    .prod{
+        
+        font-size: 12px;
+        border-radius: 5px;
+        background-color: #1cc88a;
+        color: white;
+        margin-left: 30px;
+        padding: 5px;
+      }
+      .prod:hover{
+        text-decoration: underline;
+      }
+      #you{
+        margin-left: 500px;
+      margin-top: 50px;
+        background-color: #4e73df;
+        border-radius: 5px;
+        color: white;
+        font-size: 20px;
+        
+     }
+     .containers{
+        background-color: rgba(0,0,0,.1);
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 240px;
+     }
+     .mute{
+        padding-bottom: 10px;
+     }
+  
+  }
+  @media  (min-width: 500px) {
+    .side-bar{
+        width: 200px;
+    
+    }
+    .dashboard {
+        display: flex;
+        flex-direction: coloumn;
+      
+    
+    }
+    #dash{
+        width: 100px;
+        background-color: lightskyblue;
+        border: none;
+        border-radius: 5px;
+        color: black;
+        margin-left: 20px;
+    }
+    #dash:hover{
+        background-color:white;
+    }
+    #bt{
+        width: 100px;
+    
+        border-radius: 5px;
+        margin-left: 40px;
+        margin-top: 10px;
+        display: none;
+    }
+    #car{
+        width: 100px;
+       
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+    }
+    #co{
+        width: 100px;
+     
+        border-radius: 5px;
+        margin-left: 40px;
+        margin-top: 10px;
+        display: none;
+    
+    }
+    #bo{
+        width: 100px;
+        
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+    
+     
+    }
+    #ani{
+        width: 100px;
+     
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+     
+    }
+    #other{
+        width: 100px;
+    
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+    
+    }
+    #log{
+        width: 100px;
+       
+        border-radius: 5px;
+        margin-left: 40px;
+        margin-top: 10px;
+        display: none;
+     
+    }
+    #reg{
+        width: 100px;
+     
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+    
+    }
+    #four{
+        width: 100px;
+       
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+       
+    }
+    #for{
+        width: 100px;
+    
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+       
+    }
+    #blank{
+        width: 100px;
+       
+        border-radius: 5px;
+        margin-left: 40px;
+        display: none;
+        
+    }
+    #tab{
+        width: 100px;
+    
+        border-radius: 5px;
+        margin-left: 10px;
+        
+    }
+    button:hover{
+        background-color: white;
+    }
+    
+    .side-bar {
+        border: 1px soli white;
+        height: 400vh;
+        width: 16%;
+        background-color: #4e73df;
+        
+       
+    }
+    
+    .fa-laugh-wink{
+      font-size: 20px;
+      color: white;
+    }
+    .fa-tachometer-alt{
+        font-size: 20px;
+      color: white;
+    }
+    .components{
+      background-color: lightskyblue;
+      border: none;
+      border-radius: 5px;
+      width: 100px;
+      color: black;
+    }
+    .components:hover{
+        background-color: white;
+    }
+    .fa-cog{
+        color: lightgray;
+    }
+    .fa-cog:hover{
+        color: white;
+    }
+    .interface{
+        color: rgba(255,255,255,.4);
+        font-size: 10px;
+        margin-left: 20px;
+        margin-top: 10px;
+    
+    }
+    .com{
+        color: lightgray;
+       
+     
+    }
+    .com:hover{
+        color: white;
+    }
+    
+    .utilities{
+        background-color: lightskyblue;
+        border: none;
+        border-radius: 5px;
+        color: black;
+        margin-left: 20px;
+        width: 100px;
+      }
+      .utilities:hover{
+        background-color: white;
+      }
+    
+    
+    .sb1 {
+        margin-left: 30px;
+        margin-top: 10px;
+        color: white;
+       
+    }
+    .fa-wrench{
+        color: lightgray;
+    }
+    .fa-wrench:hover{
+        color: white;
+    }
+    .utili{
+        color: lightgray;
+        margin-left: 20px;
+    }
+    .utili:hover{
+        color: white;
+    }
+    .addons{
+        color: rgba(255,255,255,.4);
+        font-size: 10px;
+        margin-left: 20px;
+        margin-top: 10px;
+    
+    }
+    .log{
+        background-color: lightskyblue;
+        border: none;
+        border-radius: 5px;
+        color: black;
+        width: 100px;
+        margin-left: 20px;
+    }
+    .log:hover{
+        background-color: white;
+    }
+    .fa-folder{
+        color: lightgray;
+    }
+    .fa-folder:hover{
+        color: white;
+    }
+    .table{
+        color: lightgray;
+       
+    }
+    .table:hover{
+        color: white;
+    }
+    
+    .fa-table{
+        color: lightgray;
+     
+    }
+    .fa-table:hover{
+        color: white;
+    }
+    .too{
+        background-color: lightskyblue;
+        border: none;
+        border-radius: 5px;
+        color: black;
+        margin-left: 20px;
+        width: 100px    ;
+    }
+    .too:hover{
+        background-color: white;
+    }
+    .pack {
+        color: #f8f9fc;
+        margin-left: 20px;
+    }
+    .prod{
+        
+        font-size: 12px;
+        border-radius: 5px;
+        background-color: #1cc88a;
+        color: white;
+        margin-left: 30px;
+        padding: 5px;
+      }
+      .prod:hover{
+        text-decoration: underline;
+      }
+      #you{
+        margin-left: 500px;
+      margin-top: 50px;
+        background-color: #4e73df;
+        border-radius: 5px;
+        color: white;
+        font-size: 20px;
+        
+     }
+     .containers{
+        background-color: rgba(0,0,0,.1);
+        margin-left: 20px;
+        margin-right: 20px;
+        height: 240px;
+     }
+     .mute{
+        padding-bottom: 10px;
+     }
+
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+  

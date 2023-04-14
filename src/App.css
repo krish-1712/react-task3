@@ -1,0 +1,46 @@
+.Table{
+   margin-top: 30px;
+   margin-left: 30px;
+}
+#task{
+   margin-left: 500px;
+   margin-top: 100px;
+   background-color: #4e73df;
+   border-radius: 5px;
+   color: white;
+}
+.sort1{
+   color: black;
+}
+.sort2{
+   color: black;
+}
+.sort3{
+   color: black;
+}
+
+.sort4{
+   color: black;
+}
+.sort5{
+   color: black;
+}
+.sort6{
+   color: black;
+}
+.time{
+   color: #5a5c69;
+}
+.time1{
+   color: #5a5c69;
+}
+
+@media  (max-width: 1200px) {
+  
+}
+@media  (min-width: 100px) {
+
+}
+    
+    
+  
